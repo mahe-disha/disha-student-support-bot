@@ -67,7 +67,7 @@
 </head>
 <body>
 
-  <header>Disha Student Help Desk</header>
+  <header>Student Help Desk</header>
 
   <div class="container">
     <button onclick="alert('Faculty contact: faculty@college.edu, Ph: 1234567890')">📞 Faculty Contact Info</button>
